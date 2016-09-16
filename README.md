@@ -1,3 +1,7 @@
+项目开发分支请移步至 https://github.com/lizhiqianduan/ng2-xiaohei-blog/tree/develop
+
+Develop branch of this project,please click to https://github.com/lizhiqianduan/ng2-xiaohei-blog/tree/develop
+
 # ng2-xiaohei-blog [中文介绍]
 
 这个项目是为我的博客创建的，我的博客大概两年前使用angular.js-1.3.x建立的，博客地址 http://www.lizhiqianduan.com/myblog 。
